@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Ceremonial matcha, seen from above">
+  <title>Ceremonial matcha, seen from above</title>
+  <circle cx="104" cy="106" r="86" fill="#1F2E1A" opacity="0.08"/>
+  <circle cx="100" cy="100" r="86" fill="#FFFFFF" stroke="#D5DECB" stroke-width="3"/>
+  <circle cx="100" cy="100" r="72" fill="#5E8A2E"/>
+  <circle cx="100" cy="100" r="44" fill="#8FB24C" opacity="0.9"/>
+  <path d="M92.7 108.2 A11.0 11.0 0 0 1 97.6 89.3" fill="none" stroke="#5E8A2E" stroke-width="3.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M115.6 106.0 A16.7 16.7 0 0 1 86.0 109.1" fill="none" stroke="#5E8A2E" stroke-width="3.1" stroke-linecap="round" opacity="0.85"/>
+  <path d="M77.6 99.0 A22.4 22.4 0 0 1 114.0 82.5" fill="none" stroke="#5E8A2E" stroke-width="2.7" stroke-linecap="round" opacity="0.85"/>
+  <path d="M127.4 106.6 A28.2 28.2 0 0 1 78.6 118.3" fill="none" stroke="#5E8A2E" stroke-width="2.3" stroke-linecap="round" opacity="0.85"/>
+  <path d="M69.0 113.8 A33.9 33.9 0 0 1 107.1 66.9" fill="none" stroke="#5E8A2E" stroke-width="1.9" stroke-linecap="round" opacity="0.85"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Genmaicha cold brew, seen from above">
+  <title>Genmaicha cold brew, seen from above</title>
+  <circle cx="104" cy="106" r="86" fill="#1F2E1A" opacity="0.08"/>
+  <circle cx="100" cy="100" r="86" fill="#FFFFFF" stroke="#D5DECB" stroke-width="3"/>
+  <circle cx="100" cy="100" r="72" fill="#D2B45C"/>
+  <rect x="78" y="82" width="22" height="22" rx="5" fill="#FFFFFF" opacity="0.55" transform="rotate(12 89 93)"/>
+  <rect x="108" y="74" width="22" height="22" rx="5" fill="#FFFFFF" opacity="0.55" transform="rotate(-18 119 85)"/>
+  <rect x="92" y="112" width="22" height="22" rx="5" fill="#FFFFFF" opacity="0.55" transform="rotate(30 103 123)"/>
+  <rect x="118" y="104" width="22" height="22" rx="5" fill="#FFFFFF" opacity="0.55" transform="rotate(6 129 115)"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Matcha coconut, seen from above">
+  <title>Matcha coconut, seen from above</title>
+  <circle cx="104" cy="106" r="86" fill="#1F2E1A" opacity="0.08"/>
+  <circle cx="100" cy="100" r="86" fill="#FFFFFF" stroke="#D5DECB" stroke-width="3"/>
+  <circle cx="100" cy="100" r="72" fill="#C9DB9A"/>
+  <circle cx="100" cy="100" r="44" fill="#FFFFFF" opacity="0.9"/>
+  <path d="M101.8 110.8 A11.0 11.0 0 0 1 90.1 95.1" fill="none" stroke="#C9DB9A" stroke-width="3.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M88.3 88.0 A16.7 16.7 0 0 1 116.5 97.6" fill="none" stroke="#C9DB9A" stroke-width="3.1" stroke-linecap="round" opacity="0.85"/>
+  <path d="M121.2 92.7 A22.4 22.4 0 0 1 93.4 121.5" fill="none" stroke="#C9DB9A" stroke-width="2.7" stroke-linecap="round" opacity="0.85"/>
+  <path d="M75.1 86.9 A28.2 28.2 0 0 1 125.2 87.5" fill="none" stroke="#C9DB9A" stroke-width="2.3" stroke-linecap="round" opacity="0.85"/>
+  <path d="M73.0 120.5 A33.9 33.9 0 0 1 99.3 66.1" fill="none" stroke="#C9DB9A" stroke-width="1.9" stroke-linecap="round" opacity="0.85"/>
+</svg>
